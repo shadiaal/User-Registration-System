@@ -21,7 +21,7 @@ This is a fully responsive user registration system with features like form vali
 
 ## Setup Instructions
 1. Clone the repo:
-git clone https://github.com/yourusername/registration-system.git.
+git clone https://github.com/shadiaal/User-Registration-System.git
 2. Install dependencies: npm install
 3. Open index.html in your browser to run the project.
 
